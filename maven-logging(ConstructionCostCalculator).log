@@ -1,0 +1,10 @@
+2020-07-23 15:28:03 WARN  ConstructionCostCalculator:40 - 
+Automated Home is applicable only with "Automated And High Standard Material"
+Please choose the Material Standard accordingly.
+2020-07-23 15:28:03 INFO  ConstructionCostCalculator:41 - Enter Material Standard of your choice
+2020-07-23 15:28:07 INFO  ConstructionCostCalculator:43 - Total Area Of House
+2020-07-23 15:28:10 WARN  ConstructionCostCalculator:45 - 
+Automated Home is not applicable with "Standard Material","Above Standard Material" and "High Standard Material".
+Please remember this while choosing. 
+2020-07-23 15:28:10 INFO  ConstructionCostCalculator:46 - Do you want fully automated or not?Enter y/n
+2020-07-23 15:28:11 DEBUG ConstructionCostCalculator:82 - Construction Cost= 5000000.0 INR
